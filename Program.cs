@@ -10,6 +10,8 @@ namespace Test01
     {
         static void Main(string[] args)
         {
+            //Initial code
+            Console.WriteLine("This is the first iteration for the project");
         }
     }
 }
