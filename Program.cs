@@ -16,6 +16,7 @@ namespace Test01
             Console.WriteLine("Text that was pulled from elsewhere");
             //Step to allow fetching
             Console.WriteLine("Text that will be fetched from elsewhere");
+            Console.WrieteLine("The text was fetched");
         }
     }
 }
