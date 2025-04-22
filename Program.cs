@@ -13,7 +13,9 @@ namespace Test01
             //Initial code
             Console.WriteLine("This is the first iteration for the project");
             //Step to allow pulling
-            Console.WriteLine("Text that was pulled from elsewhere")
+            Console.WriteLine("Text that was pulled from elsewhere");
+            //Step to allow fetching
+            Console.WriteLine("Text that will be fetched from elsewhere");
         }
     }
 }
